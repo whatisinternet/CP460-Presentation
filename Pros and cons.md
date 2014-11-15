@@ -8,6 +8,7 @@ Pros
 - "the best attacks on Grøstl, JH, and Skein would require huge computational resources to implement, and cannot be fully verified"
 - "Keccak has the largest security margin, with 79% of its hash function still unbroken; JH has the smallest security margin, with 38% unbroken"
 - "there is no known way for an attacker to exploit the JH domain extension to find preimages, or second preimages more efficiently than a brute-force search"
+- 256 Sboxes can be computed in parallel
 
 Cons
 ----
